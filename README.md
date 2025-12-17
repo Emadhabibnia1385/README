@@ -10,8 +10,7 @@
 
 <div align="center">
 
-<h1>👋 سلام، من عماد هستم</h1>
-<h2>Hi, I'm Emad</h2>
+<h1>Hi, I'm Emad  👋 سلام، من عماد هستم</h1>
 
 <h3>Frontend Developer</h3>
 <h3>HTML • CSS • JavaScript • Bootstrap</h3>
