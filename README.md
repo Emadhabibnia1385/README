@@ -3,7 +3,7 @@
   <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Parsa5436&label=Profile%20Visits&style=for-the-badge" />
   <br>
-  <a href="https://t.me/Parsa5436">
+  <a href="[https://t.me/Parsa5436](https://t.me/EmadHabibnia  )">
     <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/Parsa5436&style=for-the-badge" alt="Telegram channel">
   </a>
 </div>
@@ -11,6 +11,7 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 # 👋 سلام، من عماد هستم | Hi, I'm Emad
 
 Frontend Developer | HTML, CSS, JavaScript, Bootstrap  
